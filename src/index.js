@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <App />,
+  <App login="pepeamaya"/>,
   document.getElementById('root') // where we want to put it
 );
 
